@@ -1,0 +1,19 @@
+{
+	"name": "christirichards/wp-excel-comments",
+	"description": "Uses the PHPExcel library to export WordPress comments and their information to an Excel spreadsheet",
+	"type": "project",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Christi Richards",
+			"email": "christi@christirichards.com",
+			"homepage": "https://github.com/christirichards"
+        }
+    ],
+	"keywords": [
+        "wordpress", "excel", "PHPExcel", "comments", "wp"
+    ],
+	"require": {
+		"phpoffice/phpexcel": "^1.8"
+	}
+}
